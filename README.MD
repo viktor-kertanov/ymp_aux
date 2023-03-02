@@ -10,3 +10,4 @@ testing echo function with >>
 - [How to see changes history](./log_help.md)
 - [How to get back to the previous version of the project](./reset_help.md)
 - [Branching](./branch_help.md)
+- [Branch merge](./merge_help.md)
