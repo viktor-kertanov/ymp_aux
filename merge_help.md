@@ -1,1 +1,1 @@
-In order to merge two branches you need merge command
+# In order to merge two branches you need merge command
